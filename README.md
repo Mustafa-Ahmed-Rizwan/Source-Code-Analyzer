@@ -1,4 +1,4 @@
-# Repository Chat Application
+# Source Code Analyzer
 
 A full-stack application that allows users to ingest GitHub repositories and chat with the codebase using AI. Built with FastAPI backend and Flutter mobile frontend.
 
